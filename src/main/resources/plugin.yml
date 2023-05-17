@@ -1,0 +1,9 @@
+name: BaimoTokens
+version: 1.0
+main: top.baimoqilin.BaimoTokens.Main
+author: BaimoQilin
+description: Generates a random token for players and stores it in a MySQL database.
+commands:
+  token:
+    description: 生成Token
+    usage: /token
